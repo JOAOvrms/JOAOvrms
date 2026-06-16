@@ -1,4 +1,5 @@
 # Olá, eu sou o João Vitor! 👋
+📍 **São Paulo - SP, Brasil**
 
 Sou um desenvolvedor em início de carreira focado em transformar linhas de código em soluções reais e eficientes. Atualmente, estou aprimorando minhas habilidades na stack Web e em lógica de programação, com o objetivo de me consolidar como um Desenvolvedor Full-Stack.
 
@@ -9,6 +10,7 @@ Buscando minha primeira oportunidade no mercado de tecnologia como **Estagiário
 ### 🚀 Sobre Mim
 - 🧠 Atualmente aprofundando conhecimentos em desenvolvimento de sistemas e arquitetura de software.
 - 🎯 Objetivo: Desenvolver softwares inteligentes que otimizem processos e melhorem a experiência das pessoas.
+- 🚌 **Mobilidade:** Residente na capital de São Paulo, com facilidade de locomoção para modelos de trabalho presenciais ou híbridos.
 - ⚡ Curiosidade: Fora das linhas de código, você provavelmente vai me encontrar em uma quadra de basquete, jogando ping-pong, ou expandindo horizontes através de livros e filmes.
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -21,7 +23,7 @@ Aqui estão as tecnologias que utilizo para transformar ideias em aplicações:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> JavaScript | 🌐 Consumo de APIs | 💻 VS Code |
 
 ### 🌐 Idiomas
-- 🇺🇸 **Inglês:** Avançado (Fluência na leitura, escrita e comunicação técnica).
+- 🇺🇸 **Inglês:** Avançado (Fluência na leitura, escrita e comunicação).
 
 ---
 
