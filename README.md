@@ -28,6 +28,8 @@ Aqui estão as tecnologias que utilizo para transformar ideias em aplicações:
 ### 💻 Meus Projetos
 *Os repositórios abaixo são alguns exemplos das minhas habilidaddes tecnicas:*
 
-*(Dica: Assim que você criar seus repositórios, coloque os links ou fixe-os logo abaixo!)*
+https://alura-play-vert.vercel.app/
+https://alura-books-zeta-ruby.vercel.app/
+https://adivinhe-o-numero-pink-five.vercel.app/
 
 📬 **Como me encontrar:** https://www.linkedin.com/in/jo%C3%A3o-vitor19/ | joaorms19@gmail.com
