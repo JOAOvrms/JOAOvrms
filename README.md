@@ -8,10 +8,10 @@ Buscando minha primeira oportunidade no mercado de tecnologia como **Estagiário
 ---
 
 ### 🚀 Sobre Mim
-- 🧠 Atualmente aprofundando conhecimentos em desenvolvimento de sistemas e arquitetura de software.
-- 🎯 Objetivo: Desenvolver softwares inteligentes que otimizem processos e melhorem a experiência das pessoas.
+- 🧠 **Atualmente** aprofundando conhecimentos em desenvolvimento de sistemas e arquitetura de software.
+- 🎯 **Objetivo:** Desenvolver softwares inteligentes que otimizem processos e melhorem a experiência das pessoas.
 - 🚌 **Mobilidade:** Residente na capital de São Paulo, com facilidade de locomoção para modelos de trabalho presenciais ou híbridos.
-- ⚡ Curiosidade: Fora das linhas de código, você provavelmente vai me encontrar em uma quadra de basquete, jogando ping-pong, ou expandindo horizontes através de livros e filmes.
+- ⚡ **Curiosidade:** Fora das linhas de código, você provavelmente vai me encontrar em uma quadra de basquete, jogando ping-pong, ou expandindo horizontes através de livros e filmes.
 
 ### 🛠️ Tecnologias & Ferramentas
 Aqui estão as tecnologias que utilizo para transformar ideias em aplicações:
