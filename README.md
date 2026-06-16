@@ -8,7 +8,7 @@ Buscando minha primeira oportunidade no mercado de tecnologia como **Estagiário
 
 ### 🚀 Sobre Mim
 - 🧠 Atualmente aprofundando conhecimentos em desenvolvimento de sistemas e arquitetura de software.
-- 🎯 Objetivo: Desenvolver softwares inteligentes que otimen processos e melhorem a experiência das pessoas.
+- 🎯 Objetivo: Desenvolver softwares inteligentes que otimizem processos e melhorem a experiência das pessoas.
 - ⚡ Curiosidade: Fora das linhas de código, você provavelmente vai me encontrar em uma quadra de basquete, jogando ping-pong, ou expandindo horizontes através de livros e filmes.
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -26,10 +26,24 @@ Aqui estão as tecnologias que utilizo para transformar ideias em aplicações:
 ---
 
 ### 💻 Meus Projetos
-*Os repositórios abaixo são alguns exemplos das minhas habilidaddes tecnicas:*
+*Os repositórios abaixo são alguns exemplos das minhas habilidades técnicas em aplicações web:*
 
-https://alura-play-vert.vercel.app/
-https://alura-books-zeta-ruby.vercel.app/
-https://adivinhe-o-numero-pink-five.vercel.app/
+- 🎬 **AluraPlay** 
+  Plataforma para compartilhamento e visualização de vídeos simulados.
+  👉 [Acessar Projeto](https://alura-play-vert.vercel.app/)
 
-📬 **Como me encontrar:** https://www.linkedin.com/in/jo%C3%A3o-vitor19/ | joaorms19@gmail.com
+<br>
+
+- 📚 **AluraBooks** 
+  E-commerce responsivo focado no design e disposição de vitrines de livros.
+  👉 [Acessar Projeto](https://alura-books-zeta-ruby.vercel.app/)
+
+<br>
+
+- 🔢 **Jogo de Adivinhação de Números** 
+  Aplicação interativa focada em lógica de programação e manipulação de eventos em JavaScript.
+  👉 [Acessar Projeto](https://adivinhe-o-numero-pink-five.vercel.app/)
+
+---
+
+📬 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor19/) | [E-mail](mailto:joaorms19@gmail.com)
