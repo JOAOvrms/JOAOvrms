@@ -30,21 +30,25 @@ Aqui estão as tecnologias que utilizo para transformar ideias em aplicações:
 ### 💻 Meus Projetos
 *Os repositórios abaixo são alguns exemplos das minhas habilidades técnicas em aplicações web:*
 
-- 🎬 **AluraPlay** 
-  Plataforma para compartilhamento e visualização de vídeos simulados.
-  👉 [Acessar Projeto](https://alura-play-vert.vercel.app/)
+
+- 🍊 **Animated Landing Page** 
+  Landing page interativa desenvolvida para praticar HTML, CSS, JavaScript e animações com GSAP.
+  👉 [Acessar Projeto](animated-landing-page-eosin-gamma.vercel.app)
+  👉 [Acessar Repositório](https://github.com/JOAOvrms/Animated-Landing-Page)
 
 <br>
 
-- 📚 **AluraBooks** 
-  E-commerce responsivo focado no design e disposição de vitrines de livros.
-  👉 [Acessar Projeto](https://alura-books-zeta-ruby.vercel.app/)
+- 🎬 **AluraPlay** 
+  Plataforma para compartilhamento e visualização de vídeos simulados.
+  👉 [Acessar Projeto](https://alura-play-vert.vercel.app/)
+  👉 [Acessar Repositório](https://github.com/JOAOvrms/AluraPlay)
 
 <br>
 
 - 🔢 **Jogo de Adivinhação de Números** 
   Aplicação interativa focada em lógica de programação e manipulação de eventos em JavaScript.
   👉 [Acessar Projeto](https://adivinhe-o-numero-pink-five.vercel.app/)
+  👉 [Acessar Repositório](https://github.com/JOAOvrms/Adivinhe-o-numero)
 
 ---
 
